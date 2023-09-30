@@ -1,2 +1,4 @@
 # odin-recipes
-First proper Website, I guess. Project for The Odin Project.
+First Project for The Odin Project.
+
+Made using basic HTML. I will be adding more to it as I advance into the course.
