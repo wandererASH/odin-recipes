@@ -1,0 +1,21 @@
+* {
+    font-family: Times, serif, sans-serif, monospace;
+    font-size: 40px;
+    color:black;
+    background-color: beige;
+}
+
+.heading {
+    text-align: center;
+    font-size: 80px;
+    color: gold;
+}
+
+.main2 {
+    color:brown
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
